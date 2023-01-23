@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<p align="center">	
+   <a href="https://www.linkedin.com/in/filipe-costa-nascimento/">
+      <img alt="Filipe Costa" src="https://img.shields.io/badge/-Filip3C0-000?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <a aria-label="">
+   <img alt="Filipe Costa" src="https://img.shields.io/badge/-Filip3C0-000?style=flat&logo=github&logoColor=white" />
+  </a>
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-000">
+  
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+<div align="center">
+  <sub>The weather-app
+ project. Built with 💜  by
+    <a href="https://github.com/Filip3C0">Filipe Costa</a>
+  </sub>
+</div>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# :eyes: Demo Website
+ <img src="https://github.com/Filip3C0/control-finances/blob/master/src/assets/site-image.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :computer: Technologies
+This project was made using the follow technologies:
+ 
+* <a href="https://www.javascript.com/"> JavaScript  </a> 
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS  </a> 
+* <a href="https://html.com/">  HTML </a> 
 
-### `npm run eject`
+    
+# Frameworks 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Deploy With 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# :construction_worker: How to run
+```bash
+# Clone Repository
+$ https://github.com/Filip3C0/control-finances.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 💻 Run Web Project
 
-## Learn More
+```bash
+# Install Dependencies
+$ yarn install or npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Run Aplication
+$ yarn start or npm start 
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#  🗣Suggestions 
+If you have any suggestions or want a bug report. Thank you very much for your cooperation! 🤝
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# :closed_book: License
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with love by [Filipe Costa](https://github.com/Filip3C0) 🚀.
+This project is under the [MIT license](./LICENSE).
